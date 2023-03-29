@@ -1,2 +1,2 @@
-# elasticComplexTrees
-## IEEE TPAMI
+# glass
+Geometric Latent Augmentation for Shape Spaces
