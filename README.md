@@ -1,2 +1,2 @@
 # Statistical Shape Analysis of elastic Tree-shaped Objects
-Geometric Latent Augmentation for Shape Spaces
+The project page for our work: Statistical Shape Analysis of elastic Tree-shaped Objects
