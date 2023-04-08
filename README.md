@@ -1,2 +1,2 @@
-# Statistical Shape Analysis of elastic Tree-shaped Objects
+# Learning Generative Models of the Geometry and Topology of Tree-like 3D Objects
 The project page
